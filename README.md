@@ -120,6 +120,9 @@ Telegram bot that calculates attendance insights and predictions for students.
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=pratikraj108&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
+## Github Contribution
+![snake gif](https://github.com/pratiktaj108/pratikraj108/blob/output/github-contribution-grid-snake.gif)
+
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
