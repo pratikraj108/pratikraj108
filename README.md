@@ -137,7 +137,5 @@ Telegram bot that calculates attendance insights and predictions for students.
 
 </div>
 
-## Github Contribution
-![snake gif](https://github.com/pratikraj108/pratikraj108/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly redesigned with ❤️ — originally created with GPRM ( https://gprm.itsvg.in ) -->
