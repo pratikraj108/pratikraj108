@@ -7,7 +7,6 @@
 </a>
 
 ![Status](https://img.shields.io/badge/Open%20to-SDE%20%2F%20Full--Stack%20Internships-22C55E?style=for-the-badge)
-//![CGPA](https://img.shields.io/badge/CGPA-9.20%2F10-6366F1?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Batch-2027-8B5CF6?style=for-the-badge)
 
 ### 🌐 Connect with me
