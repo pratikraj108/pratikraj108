@@ -122,8 +122,6 @@ Telegram bot that calculates attendance insights and predictions for students.
 
 
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
